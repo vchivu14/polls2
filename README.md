@@ -1,7 +1,7 @@
 # polls.v1
 
 <h2>Test app from Django's Website</h2>
-<h4>Just Python3 and Django</h4>
+<h4>Python3 and Django</h4>
 <p>Steps:</p>
 <ol>
   <li>git clone https://github.com/vchivu14/polls.v1.git</li>
