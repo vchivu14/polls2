@@ -1,6 +1,5 @@
 # polls.v1
 
-<h2>Test app from Django's Website</h2>
 <h4>Python3 and Django</h4>
 <p>Steps:</p>
 <ol>
