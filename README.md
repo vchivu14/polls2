@@ -13,5 +13,4 @@
   <li>python3 manage.py runserver</li>
   <li>check localhost:8000/polls</li>
 </ol>
-<h5>Create a superuser as admin</h5>
 <h5>This is a project from https://docs.djangoproject.com/en/3.0/intro/</h5>
